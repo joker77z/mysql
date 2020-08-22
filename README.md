@@ -1,4 +1,4 @@
-# 0822
+# 0822 CREATE, READ
 - setup mysql
 
 - how to use mysql?  
@@ -21,3 +21,5 @@
 
 - can order by select
 1. SELECT * FROM TABLE_NAME ORDER BY column_name ASC|DESC;
+
+# 0822 UPDATE
