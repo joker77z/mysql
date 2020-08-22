@@ -9,3 +9,9 @@
 5. CREATE TABLE TABLE_NAME ( --- );  
 6. SHOW TABLES;  
 7. DESC(or DESCRIBE) TABLE_NAME;  
+
+- how to insert data in table?
+1. INSERT INTO(---) VALUES('---')
+
+- how to show data in table?
+1. SELECT * FROM TABLE_NAME;
