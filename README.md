@@ -31,3 +31,6 @@ easy.
 3. create author table  
 4. insert into data to table  
 
+5. SELECT topic.id, title .... FROM topic LEFT JOIN author ON topic.author_id = author.id;
+// 이렇게 하면 하나로 합쳐진 테이블을 볼 수 있고 만약에 author에서 데이터를 하나 수정하게 되면 모든 테이블에 연동되어 있는 id값이 있기 때문에 반영이 한번에 된다.
+// 변경할 때는 UPDATE 테이블이름 SET profile = 'database administrator' WHERE id = 2; // 이런식으로 id 2번의 profile컬럼의 값을 database administrator로 변경하면 된다.
