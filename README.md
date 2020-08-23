@@ -22,4 +22,12 @@
 - can order by select
 1. SELECT * FROM TABLE_NAME ORDER BY column_name ASC|DESC;
 
-# 0822 UPDATE
+# 0822 UPDATE, DELETE
+easy.
+
+# 0823 TABLE Distribute, Join
+1. 기존 TABLE을 RENAME한다. ex) topic → topic_BACKUP  
+2. create topic table  
+3. create author table  
+4. insert into data to table  
+
