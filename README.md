@@ -36,6 +36,6 @@ easy.
 // 변경할 때는 UPDATE 테이블이름 SET profile = 'database administrator' WHERE id = 2; // 이런식으로 id 2번의 profile컬럼의 값을 database administrator로 변경하면 된다.
 
 - how to use mySQL workbench  
- - new schema  
- - new table  
- - insert table data  
+1. new schema  
+2. new table  
+3. insert table data  
